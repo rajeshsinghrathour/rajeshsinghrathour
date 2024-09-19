@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rajeshsinghrathour
 - 👀 I’m interested in Data science related concept .
-- 🌱 I’m currently learning about Data......
+- 🌱 I’m currently learning about Data........
 - 💞️ I’m looking to collaborate on Data analytics projcet and also Data science . 
-- 📫 How to reach me ...
+  
   
 
 <!---
